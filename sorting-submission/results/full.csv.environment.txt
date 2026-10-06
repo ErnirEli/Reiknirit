@@ -1,0 +1,8 @@
+date=2026-09-07T17:42:40.678003100Z
+java=21.0.12+8-LTS
+vm=OpenJDK 64-Bit Server VM
+os=Windows 11 amd64
+hostProcessors=8
+workerProcessors=4
+heap=640MiB; SerialGC; codeCache=64MiB; metaspace=96MiB; stack=512KiB
+arguments=[full, results/full.csv, 3]
