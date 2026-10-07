@@ -1,8 +1,0 @@
-date=2026-09-07T17:52:53.148129300Z
-java=21.0.12+8-LTS
-vm=OpenJDK 64-Bit Server VM
-os=Windows 11 amd64
-hostProcessors=8
-workerProcessors=4
-heap=640MiB; SerialGC; NewRatio=8; codeCache=64MiB; metaspace=96MiB; stack=512KiB
-arguments=[full, results/tuned.csv, 3, radix8,radix11,radix16,jdk,parallel, 16000000,30000000]

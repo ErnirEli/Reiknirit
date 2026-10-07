@@ -34,6 +34,7 @@ public class lowSkillDecks {
                 System.out.println("Fínn Stokkur");
             }
         }
+        scanner.close();
 
     }
 }

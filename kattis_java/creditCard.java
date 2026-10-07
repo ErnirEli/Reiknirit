@@ -15,6 +15,7 @@ public class creditCard {
                 break;
             }
         }
+        scanner.close();
 
         
     }

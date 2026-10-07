@@ -39,6 +39,7 @@ public class largestSquare {
 
         }
         System.out.println(fences.get(ans).get(0)+ " " +fences.get(ans).get(1));
+        scanner.close();
 
     }
 }
